@@ -2,7 +2,7 @@
 
 Aplicação web que consulta as condições meteorológicas atuais de uma cidade. A interface exibe localização, país, temperatura, descrição do clima, umidade e o ícone correspondente fornecido pela OpenWeatherMap.
 
-![Uploading image.png…]()
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/5903bdb7-d72f-444b-82cd-eaef7fdfab7c" />
 
 
 ## Funcionalidades
